@@ -1,5 +1,5 @@
 <h1>Hi, I'm Boni! <br/>
-  <a href="https://github.com/joshmadakor1">
+  <a href="https://github.com/BoniMilin">
     Web Designer
   </a>, 
 </h1>
