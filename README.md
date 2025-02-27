@@ -1,4 +1,4 @@
-<h1>Hi, I'm Boni! <br/><a href="https://github.com/BoniMilin">Infrustructure Engineer</a>, <a href="https://www.linkedin.com/in/boni-milinganyo/">Information Technology Professional</a>
+<h1>Hi, I'm Boni! <br/><a href="https://github.com/BoniMilin">🚀Infrustructure Automation Engineer</a>, <a href="https://www.setu.ie/">Information Technology Student</a>, <a href="https://www.linkedin.com/in/boni-milinganyo/">Web Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
